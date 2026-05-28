@@ -1,3 +1,7 @@
+//Maximiliano Xavier Rivera Lara 00067826
+//Oscar Josue Pineda Martinez 00374825
+//Carlos Antonio Perez Acosta 00098925
+
 #include <iostream>
 using namespace std;
 
